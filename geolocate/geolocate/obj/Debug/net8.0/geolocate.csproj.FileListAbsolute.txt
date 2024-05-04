@@ -1,0 +1,17 @@
+C:\Users\Roman\Desktop\Project-GeolocateTracker\geolocate\geolocate\bin\Debug\net8.0\geolocate.exe
+C:\Users\Roman\Desktop\Project-GeolocateTracker\geolocate\geolocate\bin\Debug\net8.0\geolocate.deps.json
+C:\Users\Roman\Desktop\Project-GeolocateTracker\geolocate\geolocate\bin\Debug\net8.0\geolocate.runtimeconfig.json
+C:\Users\Roman\Desktop\Project-GeolocateTracker\geolocate\geolocate\bin\Debug\net8.0\geolocate.dll
+C:\Users\Roman\Desktop\Project-GeolocateTracker\geolocate\geolocate\bin\Debug\net8.0\geolocate.pdb
+C:\Users\Roman\Desktop\Project-GeolocateTracker\geolocate\geolocate\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Roman\Desktop\Project-GeolocateTracker\geolocate\geolocate\obj\Debug\net8.0\geolocate.csproj.AssemblyReference.cache
+C:\Users\Roman\Desktop\Project-GeolocateTracker\geolocate\geolocate\obj\Debug\net8.0\geolocate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roman\Desktop\Project-GeolocateTracker\geolocate\geolocate\obj\Debug\net8.0\geolocate.AssemblyInfoInputs.cache
+C:\Users\Roman\Desktop\Project-GeolocateTracker\geolocate\geolocate\obj\Debug\net8.0\geolocate.AssemblyInfo.cs
+C:\Users\Roman\Desktop\Project-GeolocateTracker\geolocate\geolocate\obj\Debug\net8.0\geolocate.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Desktop\Project-GeolocateTracker\geolocate\geolocate\obj\Debug\net8.0\geolocate.csproj.Up2Date
+C:\Users\Roman\Desktop\Project-GeolocateTracker\geolocate\geolocate\obj\Debug\net8.0\geolocate.dll
+C:\Users\Roman\Desktop\Project-GeolocateTracker\geolocate\geolocate\obj\Debug\net8.0\refint\geolocate.dll
+C:\Users\Roman\Desktop\Project-GeolocateTracker\geolocate\geolocate\obj\Debug\net8.0\geolocate.pdb
+C:\Users\Roman\Desktop\Project-GeolocateTracker\geolocate\geolocate\obj\Debug\net8.0\geolocate.genruntimeconfig.cache
+C:\Users\Roman\Desktop\Project-GeolocateTracker\geolocate\geolocate\obj\Debug\net8.0\ref\geolocate.dll
